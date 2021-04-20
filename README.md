@@ -13,7 +13,7 @@ See how a minor change to your commit message style can make you a better progra
      │      │             │
      │      │             └─> Summary in present tense. Not capitalized. No period at the end. 
      │      │
-     │      └─> Scope: common|compiler|authentication|core|
+     │      └─> Scope (optional): eg. common, compiler, authentication, core
      │                                                                                          
      └─> Type: chore, docs, feat, fix, refactor, style, or test.
      
